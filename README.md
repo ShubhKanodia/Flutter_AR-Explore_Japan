@@ -57,14 +57,9 @@ https://github.com/ShubhKanodia/FlutterArApp/assets/110471762/0206b785-4bef-45e3
 - `lib/my_home_page.dart`: The stateful widget that contains the ARKitSceneView.
 - `assets/images/image1.jpeg`: The image used as the texture for the 3D globe.
 
-## Contribution
-
-We welcome contributions to improve this app. If you have any suggestions or bug reports, please open an issue or create a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
-Thank you for using our Flutter AR app to explore Japan. We hope you have a fantastic augmented reality experience! If you have any questions or need further assistance, please feel free to reach out.
