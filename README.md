@@ -20,7 +20,7 @@ Welcome to the Flutter AR App! This app allows users to immerse themselves in a 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/flutter-ar-explore-japan.git
+   git clone https://github.com/ShubhKanodia/flutter-ar-explore-japan.git
    cd flutter-ar-explore-japan
    ```
 
